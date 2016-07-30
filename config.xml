@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+
+>
+  <image imageURL="images/55副本.jpg"
+	thumbURL="thumbs/55副本.jpg"
+	linkURL="images/55副本.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/huangzhiwei/Desktop/55副本.jpg">
+    <title><![CDATA[55副本]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66副本2.jpg"
+	thumbURL="thumbs/66副本2.jpg"
+	linkURL="images/66副本2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/huangzhiwei/Desktop/66副本2.jpg">
+    <title><![CDATA[66副本2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
